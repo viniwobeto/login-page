@@ -39,6 +39,12 @@ npm install
 
 ### 4. Configure o arquivo de ambiente
 
+Copie o arquivo de exemplo e renomeie:
+
+```bash
+cp .env.example .env
+```
+
 Abra o arquivo `.env` e confirme que a configuração do banco está assim:
 
 ```env
