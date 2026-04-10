@@ -21,8 +21,8 @@ Antes de começar, certifique-se de ter instalado na sua máquina:
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+git clone https://github.com/viniwobeto/login-page.git
+cd login-page
 ```
 
 ### 2. Instale as dependências do PHP
